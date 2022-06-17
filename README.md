@@ -4,6 +4,8 @@ A New Animation will be uploaded every weak.
 
 ## Description 
 
+Note : not responsive at this time open with desktop.
+
 By uploading first animation i am starting a series of css-anims git uploads.
 
 ### Dependencies 
