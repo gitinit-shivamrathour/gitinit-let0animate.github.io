@@ -1,2 +1,23 @@
-# gitinit-let0animate.github.io
-Css animation first in series.
+# Let me Introduce a series of css animations gits. :star_struck:
+
+A New Animation will be uploaded every weak.
+
+## Description 
+
+By uploading first animation i am starting a series of css-anims git uploads.
+
+### Dependencies 
+
+* Based on front-end concept & created by using only Html/Css
+
+### Suggest
+* give your feedback after evaluation.
+
+## Authors
+
+Contributors names and contact info
+
+Mr. Shivam Singh Rajput  
+email: shivampublic2001@gmail.com
+
+### Animation img
